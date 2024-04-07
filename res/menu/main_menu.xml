@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_shopByCategory"
+        android:title="Shop by Category" />
+
+    <!-- Offers -->
+    <item
+        android:id="@+id/nav_offers"
+        android:title="Offers" />
+
+    <!-- My Orders -->
+    <item
+        android:id="@+id/nav_myOrders"
+        android:title="My Orders" />
+
+    <!-- My Cart -->
+    <item
+        android:id="@+id/nav_myCart"
+        android:title="My Cart" />
+
+    <!-- Profile -->
+<!--    <item-->
+<!--        android:id="@+id/nav_profile"-->
+<!--        android:title="Profile">-->
+<!--        <menu>-->
+<!--            &lt;!&ndash; Login &ndash;&gt;-->
+<!--            <item-->
+<!--                android:id="@+id/nav_login"-->
+<!--                android:title="Login" />-->
+<!--            &lt;!&ndash; Logout &ndash;&gt;-->
+<!--            <item-->
+<!--                android:id="@+id/nav_logout"-->
+<!--                android:title="Logout" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+    <!-- Settings -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings" />
+
+    <!-- Help & Support -->
+    <item
+        android:id="@+id/nav_help"
+        android:title="Help and Support" />
+
+
+    <!-- About -->
+    <item
+        android:id="@+id/nav_about"
+        android:title="About" />
+</menu>

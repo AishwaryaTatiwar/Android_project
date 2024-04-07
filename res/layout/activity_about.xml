@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"/>
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Our App - GroceMart
+
+Welcome to GroceMart - your one-stop destination for convenient online grocery shopping! At GroceMart, we aim to make grocery shopping hassle-free, efficient, and enjoyable for our customers. Our app is designed to provide you with a seamless shopping experience, offering a wide range of high-quality products at your fingertips.
+
+Why Choose GroceMart?
+
+Wide Selection: Browse through our extensive collection of grocery items, including fresh fruits and vegetables, dairy products, pantry essentials, snacks, beverages, personal care items, and much more. We strive to offer a diverse range of products to cater to all your household needs.
+
+Convenience: With GroceMart, you can shop for groceries anytime, anywhere. Our user-friendly app allows you to easily navigate through categories, add items to your cart, and place orders with just a few taps. Say goodbye to long queues and tedious grocery trips!
+
+Freshness Guaranteed: We understand the importance of freshness when it comes to groceries. That's why we partner with trusted suppliers and vendors to ensure that you receive only the freshest and highest-quality products delivered right to your doorstep.
+
+Flexible Delivery Options: Choose from a range of convenient delivery options to suit your schedule. Whether you prefer same-day delivery for urgent needs or scheduled delivery for planning ahead, we've got you covered.
+
+Exceptional Customer Service: Our dedicated customer support team is here to assist you every step of the way. Whether you have inquiries about products, orders, or delivery, feel free to reach out to us, and we'll ensure prompt assistance and resolution.
+
+Our Mission
+
+At GroceMart, our mission is to redefine the grocery shopping experience by providing customers with a convenient, reliable, and enjoyable platform for purchasing essentials. We are committed to delivering excellence in every aspect of our service, from product quality to customer satisfaction.
+
+Get Started with GroceMart Today!
+
+Experience the convenience of online grocery shopping with GroceMart. Download our app now and embark on a journey of seamless shopping, fresh products, and exceptional service. Thank you for choosing GroceMart - your trusted partner for all your grocery needs!"
+        android:textSize="18sp"
+        android:layout_below="@id/textViewTitle"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Add any other views as needed -->
+
+</RelativeLayout>
